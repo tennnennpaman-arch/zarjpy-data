@@ -1,31 +1,31 @@
 {
   "status": "ok",
-  "generated_at_utc": "2026-09-03T21:30:14.605Z",
-  "generated_at_jst": "2026/09/04 06:30:14",
+  "generated_at_utc": "2026-09-03T21:45:14.616Z",
+  "generated_at_jst": "2026/09/04 06:45:14",
   "source": "Cloudflare D1 / Twelve Data",
   "repository": "tennnennpaman-arch/zarjpy-data",
   "latest": {
-    "id": 5393,
-    "time_utc": "2026-09-03T21:30:14.605Z",
-    "usdjpy": 155.89945,
-    "usdzar": 16.0019,
-    "theoretical_zarjpy": 9.7426,
-    "jpyzar": 0.10272,
-    "zarjpy_market": 9.7352,
-    "cross_gap_pct": -0.0755,
-    "bar_time": "2026-09-03T21:15:00.000Z",
-    "usdjpy_open": 155.83619,
-    "usdjpy_high": 155.90482,
-    "usdjpy_low": 155.83386,
-    "usdjpy_close": 155.89945,
-    "usdzar_open": 16.0087,
-    "usdzar_high": 16.01152,
-    "usdzar_low": 15.99971,
-    "usdzar_close": 16.0019,
-    "jpyzar_open": 0.10273,
-    "jpyzar_high": 0.10273,
-    "jpyzar_low": 0.10266,
-    "jpyzar_close": 0.10272
+    "id": 5409,
+    "time_utc": "2026-09-03T21:45:14.616Z",
+    "usdjpy": 155.87178,
+    "usdzar": 16.01166,
+    "theoretical_zarjpy": 9.7349,
+    "jpyzar": 0.10266,
+    "zarjpy_market": 9.7409,
+    "cross_gap_pct": 0.0616,
+    "bar_time": "2026-09-03T21:30:00.000Z",
+    "usdjpy_open": 155.89454,
+    "usdjpy_high": 155.90896,
+    "usdjpy_low": 155.83938,
+    "usdjpy_close": 155.87178,
+    "usdzar_open": 16.01124,
+    "usdzar_high": 16.01227,
+    "usdzar_low": 16.00039,
+    "usdzar_close": 16.01166,
+    "jpyzar_open": 0.1027,
+    "jpyzar_high": 0.10277,
+    "jpyzar_low": 0.10265,
+    "jpyzar_close": 0.10266
   },
   "latest_complete_60m": {
     "status": "complete",
@@ -70,36 +70,6 @@
     "interval": "15m",
     "count": 200,
     "bars": [
-      {
-        "bar_time_utc": "2026-09-01T19:30:00.000Z",
-        "bar_time_jst": "2026/09/02 04:30:00",
-        "ZARJPY": {
-          "open": 9.90786,
-          "high": 9.90786,
-          "low": 9.90393,
-          "close": 9.90491
-        },
-        "USDJPY": {
-          "open": 160.21909,
-          "high": 160.24403,
-          "low": 160.19282,
-          "close": 160.23798
-        },
-        "USDZAR": {
-          "open": 16.17073,
-          "high": 16.1787,
-          "low": 16.16993,
-          "close": 16.17844
-        },
-        "JPYZAR": {
-          "open": 0.10093,
-          "high": 0.10097,
-          "low": 0.10093,
-          "close": 0.10096
-        },
-        "theoretical_ZARJPY_close": 9.90441,
-        "cross_gap_pct": 0.005
-      },
       {
         "bar_time_utc": "2026-09-01T19:45:00.000Z",
         "bar_time_jst": "2026/09/02 04:45:00",
@@ -6069,6 +6039,36 @@
         },
         "theoretical_ZARJPY_close": 9.74256,
         "cross_gap_pct": -0.0755
+      },
+      {
+        "bar_time_utc": "2026-09-03T21:30:00.000Z",
+        "bar_time_jst": "2026/09/04 06:30:00",
+        "ZARJPY": {
+          "open": 9.7371,
+          "high": 9.74184,
+          "low": 9.73047,
+          "close": 9.74089
+        },
+        "USDJPY": {
+          "open": 155.89454,
+          "high": 155.90896,
+          "low": 155.83938,
+          "close": 155.87178
+        },
+        "USDZAR": {
+          "open": 16.01124,
+          "high": 16.01227,
+          "low": 16.00039,
+          "close": 16.01166
+        },
+        "JPYZAR": {
+          "open": 0.1027,
+          "high": 0.10277,
+          "low": 0.10265,
+          "close": 0.10266
+        },
+        "theoretical_ZARJPY_close": 9.73489,
+        "cross_gap_pct": 0.0616
       }
     ]
   },
